@@ -1,9 +1,5 @@
-language: php
-php:
-  - 5.5
-  - 5.4
-  - hhvm
-script: phpunit Test.php
+language: objective-c
+osx_image: xcode7.3
 notifications:
   email:
     - gabe.defelippis@gmail.com
